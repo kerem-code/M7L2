@@ -2,4 +2,7 @@ print(hello world)
 
 selamın alyeküm ağağağağa
 
-sadkwejfnhudgbhurgnujdnjınrhugndujvnerjıgnjıl
+sadkwejfnhud
+
+
+sdsdasdagbhurgnujdnjınrhugndujvnerjıgnjıl
